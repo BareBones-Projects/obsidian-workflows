@@ -1,3 +1,5 @@
+![obsidian-workflows social preview](assets/social-preview.svg)
+
 # Obsidian Workflows
 
 ![CI](https://github.com/obsidianmd/obsidian-workflows/actions/workflows/ci.yml/badge.svg)
@@ -174,3 +176,7 @@ npm run bundle
 ## License
 
 MIT
+
+
+---
+BareBones Projects, Designed by: Justin Levesque-Welsch
